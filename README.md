@@ -134,3 +134,58 @@ demonstração utilizada durante o desenvolvimento.
 
 Projeto desenvolvido para demonstração de competências
 em Python, automação de processos e análise de dados.
+
+## Demonstração com dados fictícios
+
+Este projeto disponibiliza uma base demonstrativa com 100 registros fictícios de vendas, distribuídos em quatro arquivos CSV referentes aos anos de 2022 a 2025.
+
+A demonstração permite testar a automação sem utilizar informações comerciais reais.
+
+### Executando a demonstração
+
+**1. Instale as dependências:**
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+**2. Execute a demonstração:**
+
+```bash
+python executar_demo.py
+```
+
+O programa realizará automaticamente:
+
+- Leitura e consolidação dos arquivos CSV.
+- Tratamento dos valores de vendas.
+- Identificação de inconsistências.
+- Cálculo dos indicadores comerciais.
+- Exportação do relatório Excel.
+- Validação da estrutura e do faturamento.
+
+### Resultado esperado
+
+| Indicador | Resultado |
+|---|---|
+| Arquivos processados | 4 |
+| Registros | 100 |
+| Faturamento | R$ 76.487,10 |
+| Inconsistências | 0 |
+| Abas do relatório | 6 |
+
+O arquivo será gerado em:
+
+`relatorios_demo/Relatorio_Demonstrativo.xlsx`
+
+### Gerando novamente os dados fictícios
+
+Para recriar os arquivos CSV demonstrativos:
+
+```bash
+python gerar_dados_demo.py
+```
+
+Os arquivos serão gerados na pasta `dados_demo/`.
+
+**Observação:** os dados são inteiramente fictícios e utilizados exclusivamente para demonstração das funcionalidades da automação.

@@ -32,3 +32,6 @@ dados_processados/
 .env
 .env.*
 !.env.example
+
+# Relatorios demonstrativos gerados
+relatorios_demo/
