@@ -1,0 +1,34 @@
+# Ambientes virtuais
+.venv/
+.venv_teste/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configuracoes dos editores
+.vscode/
+.idea/
+
+# Arquivos temporarios
+*.tmp
+*.bak
+~$*
+
+# Logs
+logs/
+*.log
+
+# Relatorios gerados
+relatorios/
+
+# Dados de entrada e processados
+dados_entrada/
+dados_processados/
+
+# Credenciais e variaveis de ambiente
+.env
+.env.*
+!.env.example
