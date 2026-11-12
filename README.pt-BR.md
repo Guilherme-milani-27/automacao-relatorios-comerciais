@@ -1,27 +1,4 @@
-# Commercial Reporting Automation with Python
 
-**Automated data processing, validation, and Excel reporting pipeline.**
-
-This project demonstrates how Python can automate repetitive reporting tasks, consolidate commercial data, identify inconsistencies, and generate structured Excel reports.
-
-### Key Features
-
-- Automated consolidation of multiple CSV files.
-- Data cleaning, standardization, and validation.
-- Financial consistency checks and data quality auditing.
-- Sales performance indicators and product rankings.
-- Automated Excel report generation.
-- Execution logs and automated tests.
-
-**Tech Stack:** Python, Pandas, OpenPyXL, Excel, Git.
-
-**Demo:** Includes a reproducible demonstration using 100 fictional sales records and generating an Excel workbook with six worksheets.
-
-**Documentation:** The complete technical documentation and execution instructions are available in Portuguese below.
-
----
-
-# Documentação em Português
 
 # Automação de Relatórios Comerciais com Python
 
