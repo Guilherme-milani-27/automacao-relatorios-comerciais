@@ -1,4 +1,4 @@
-
+🌐 [English](README.md) | Português
 
 # Automação de Relatórios Comerciais com Python
 
