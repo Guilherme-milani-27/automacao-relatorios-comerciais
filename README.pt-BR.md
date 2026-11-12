@@ -1,6 +1,6 @@
-🌐 [English](README.md) | Português
-
 # Automação de Relatórios Comerciais com Python
+
+🌐 [English](README.md) | Português
 
 **Pipeline automatizado de processamento de dados comerciais, auditoria de inconsistências e geração de relatórios gerenciais em Excel.**
 
